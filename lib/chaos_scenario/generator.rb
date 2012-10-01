@@ -3,7 +3,7 @@ module ChaosScenario
     extend self
 
     def create_scenario
-      puts "A #{protagonist} #{placement} #{location} #{goal}"
+      puts "A #{protagonist} #{placement} #{location}, #{attempt} #{goal}."
     end
 
     def method_missing classifier
