@@ -7,7 +7,6 @@ module ChaosScenario
   autoload :Generator, 'chaos_scenario/generator'
 
   def self.ensue
-    puts ROOT_PATH
     Generator.create_scenario
   end
 
