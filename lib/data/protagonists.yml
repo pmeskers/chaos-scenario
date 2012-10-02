@@ -1,6 +1,4 @@
 protagonists:
-  - man
-  - woman
   - goat
   - wizard
   - monk
@@ -13,3 +11,9 @@ protagonists:
   - pilot
   - spaceship captain
   - blacksmith
+  - shaman
+  - priestess
+  - vampire
+  - demon
+  - door-to-door salesman
+  - anthromorphic @item

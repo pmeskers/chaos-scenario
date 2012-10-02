@@ -10,4 +10,8 @@ module ChaosScenario
     Generator.create_scenario
   end
 
+  def self.ensue!
+    puts Generator.create_scenario
+  end
+
 end

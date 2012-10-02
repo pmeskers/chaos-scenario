@@ -1,0 +1,5 @@
+scenarios:
+  - A @descriptor @protagonist @placement @location , @attempt @goal
+  - A @protagonist @placement @location , @attempt @goal
+  - A @descriptor @protagonist from @origin @placement @location , @attempt @goal
+  - The @role , a @protagonist , @attempt @goal @placement @location

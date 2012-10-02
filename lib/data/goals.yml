@@ -2,7 +2,6 @@ goals:
   - love
   - a home
   - the only known antidote
-  - an exotic flower
   - peace of mind
   - the way out
   - revenge
@@ -11,3 +10,8 @@ goals:
   - hidden treasure
   - their lost loved one
   - a powerful artifact
+  - to find the sacred @item
+  - to destroy @antagonist 's @item
+  - raze the lair of @antagonist
+  - to recover their mother 's @item
+  - to defeat @antagonist
